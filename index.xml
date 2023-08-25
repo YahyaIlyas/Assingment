@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="inde.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<Kaka-Store>
+<Stationery>
+<Product-Id>1</Product-Id>
+<Product-Name>Pencil</Product-Name>
+<Quantity>1200</Quantity>
+<Price-Per-Unit>10</Price-Per-Unit>
+<Price-Per-Doz>110</Price-Per-Doz>
+<In-Stock>yes</In-Stock>
+</Stationery>
+
+<Stationery>
+    <Product-Id>2</Product-Id>
+    <Product-Name>Pen</Product-Name>
+    <Quantity>800</Quantity>
+    <Price-Per-Unit>60</Price-Per-Unit>
+    <Price-Per-Doz>600</Price-Per-Doz>
+    <In-Stock>yes</In-Stock>
+    </Stationery>
+
+
+    <Stationery>
+        <Product-Id>3</Product-Id>
+        <Product-Name>Scale</Product-Name>
+        <Quantity>1500</Quantity>
+        <Price-Per-Unit>7</Price-Per-Unit>
+        <Price-Per-Doz>700</Price-Per-Doz>
+        <In-Stock>yes</In-Stock>
+        </Stationery>
+
+        <Stationery>
+            <Product-Id>4</Product-Id>
+            <Product-Name>Eraser</Product-Name>
+            <Quantity>0</Quantity>
+            <Price-Per-Unit>100</Price-Per-Unit>
+            <Price-Per-Doz>400</Price-Per-Doz>
+            <In-Stock>no</In-Stock>
+            </Stationery>
+
+            <Stationery>
+                <Product-Id>5</Product-Id>
+                <Product-Name>Sharpener</Product-Name>
+                <Quantity>3000</Quantity>
+                <Price-Per-Unit>5</Price-Per-Unit>
+                <Price-Per-Doz>300</Price-Per-Doz>
+                <In-Stock>yes</In-Stock>
+                </Stationery>
+
+</Kaka-Store>

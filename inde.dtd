@@ -1,0 +1,8 @@
+<!ELEMENT Kaka-Store (Stationery+)>
+<!ELEMENT Stationery (Product-Id,Product-Name,Quantity,Price-Per-Unit,Price-Per-Doz,In-Stock)>
+<!ELEMENT Product-Id (#PCDATA)>
+<!ELEMENT Product-Name (#PCDATA)>
+<!ELEMENT Quantity (#PCDATA)>
+<!ELEMENT Price-Per-Unit (#PCDATA)>
+<!ELEMENT Price-Per-Doz (#PCDATA)>
+<!ELEMENT In-Stock (#PCDATA)>
